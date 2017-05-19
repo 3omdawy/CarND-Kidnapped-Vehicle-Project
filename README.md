@@ -6,10 +6,13 @@ In this project a 2 dimensional particle filter in C++ is implemented. The parti
 
 ## Dependencies
 1 - CMake, Make, GNU compiler are installed
-Used installers:
-	cmake-3.7.2-win64-x64.msi
-	make-3.81.exe
-	mingw-get-setup.exe
+
+cmake-3.7.2-win64-x64.msi
+
+make-3.81.exe
+
+mingw-get-setup.exe
+
 2 - CMake and GNU bin paths are added to "Path" environment variable
 
 ## Installation
